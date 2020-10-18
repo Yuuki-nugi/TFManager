@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TFManager</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    
+    <string-array name="RaceWeather">
+        <item>晴れ</item>
+        <item>曇り</item>
+        <item>雨</item>
+        <item>雪</item>
+        <item>その他</item>
+    </string-array>
+
+    <string-array name="RaceBody">
+        <item> ★ </item>
+        <item> ★ ★</item>
+        <item> ★ ★ ★</item>
+        <item> ★ ★ ★ ★</item>
+        <item> ★ ★ ★ ★ ★</item>
+    </string-array>
+
+    <string-array name="RaceMind">
+        <item> ★ </item>
+        <item> ★ ★</item>
+        <item> ★ ★ ★</item>
+        <item> ★ ★ ★ ★</item>
+        <item> ★ ★ ★ ★ ★</item>
+    </string-array>
+    <string name="select_memo">メモ内容選択</string>
+    <string-array name="select_memo_array">
+        <item>競技結果</item>
+        <item>練習内容</item>
+        <item>その他</item>
+    </string-array>
+</resources>
